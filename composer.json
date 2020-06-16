@@ -11,7 +11,9 @@
 	],
 	"require": {
 		"php": ">=5.4.0",
-		"illuminate/support": ">=4.1",
+		"illuminate/support": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
+        "illuminate/database": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
+        "illuminate/validation": "~5.6.0|~5.7.0|~5.8.0|^6.0|^7.0|^8.0",
 		"xethron/laravel-4-generators": "~3.1.0",
 		"doctrine/dbal": "~2.4"
 	},
